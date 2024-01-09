@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955)]
 <h1 align="center">Hi 👋, I'm Natnael Mekonnen G.</h1>
 <h3 align="center">A passionate frontend, backend, mobile app, game developer from Ethiopia</h3>
-<img aligh="right" alt="Working Hard" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">   
+<img aligh="center" alt="Working Hard" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skatnati&label=Profile%20views&color=0e75b6&style=flat" alt="skatnati" /> </p>
 
 <p align="left"> <a href="https://twitter.com/skatnati28" target="blank"><img src="https://img.shields.io/twitter/follow/skatnati28?logo=twitter&style=for-the-badge" alt="skatnati28" /></a> </p>
