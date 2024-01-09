@@ -1,4 +1,4 @@
-![MasterHead](https://t3.ftcdn.net/jpg/02/24/86/92/360_F_224869243_WZHOVD3GqYq6ZUzRkZbQNTXzg1FzHwhd.jpg)
+[MasterHead](https://t3.ftcdn.net/jpg/02/24/86/92/360_F_224869243_WZHOVD3GqYq6ZUzRkZbQNTXzg1FzHwhd.jpg)
 <h1 align="center">Hi 👋, I'm Natnael Mekonnen G.</h1>
 <h3 align="center">A passionate frontend, backend, mobile app, game developer from Ethiopia</h3>
 <img align="right" alt="Working Hard" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">   
