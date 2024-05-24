@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/1e/6d/f2/1e6df2bba4246c425cf61719362a4e98.jpg)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Natnael Mekonnen G.</h1>
 <h3 align="center">A passionate frontend, backend, mobile app, game developer from Ethiopia</h3>   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skatnati&label=Profile%20views&color=0e75b6&style=flat" alt="skatnati" /> </p>
