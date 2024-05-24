@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend, backend, mobile app, game developer from Ethiopia</h3>   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skatnati&label=Profile%20views&color=0e75b6&style=flat" alt="skatnati" /> </p>
 
-<p align="center"> <a href="https://twitter.com/skatnati28" target="blank"><img src="https://img.shields.io/twitter/follow/skatnati28?logo=twitter&style=for-the-badge" alt="skatnati28" /></a> </p>
+<p align="center"> <a href="https://twitter.com/skatnati28" target="blank"><img src="[https://img.shields.io/twitter/follow/skatnati28?logo=twitter&style=for-the-badge](https://i.pinimg.com/736x/1e/6d/f2/1e6df2bba4246c425cf61719362a4e98.jpg)" alt="skatnati28" /></a> </p>
 
 - 🔭 I’m currently working on **Amazon clone (E-commerce website) & Uber clone (An android and ios mobile application which can provide ride-hailing services, food delivery, and freight transport)**
 
